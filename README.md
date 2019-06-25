@@ -10,39 +10,36 @@ dont use this for anything other than experiments
 
 ### sample output
 
+Each section of 4 lines is a single seed poem, equivalent to a 12 word seed phrase of entropy 
 ```
-The crew cookie(s) the dawn
-The coast bathhouse(s) the honor
-The calculator chick(s) the oversee
-The component bangle(s) the mastermind
-```
+The antibody lack(s) the conspirator
+The achiever jumble(s) the discrepancy
+The cribbage abort(s) the effect
+The chain gallop(s) the chili
 
-```
-The corruption chamber(s) the count
-The atheist ambition(s) the hear
-The ban affinity(s) the equal
-The content beauty(s) the concentrate
-```
 
-```
-The attainment carload(s) the murder
-The dick derivation(s) the listen
-The bull-fighter asset(s) the groan
-The drawbridge anarchist(s) the die
-```
+The complex capitalize(s) the cranky
+The cottage influence(s) the behaviour
+The catsup open(s) the country
+The cutlet broadcast(s) the deployment
 
-```
-The chapel correspondent(s) the mutter
-The bowling boxspring(s) the astound
-The dredger aid(s) the autograph
-The blood circle(s) the parachute
-```
 
-```
-The crime bust(s) the aspirate
-The butane driveway(s) the fortify
-The author commodity(s) the mention
-The dare arch(s) the commission
+The barometer perplex(s) the carpeting
+The analog mystify(s) the buckwheat
+The bone feather(s) the accuracy
+The dot congregate(s) the campus
+
+
+The development clamber(s) the cheesecake
+The bookcase lavish(s) the dune buggy
+The dinner degenerate(s) the brandy
+The cofactor drink(s) the dollop
+
+
+The brow boom(s) the cloves
+The circumstance dread(s) the celeriac
+The analyst absorb(s) the aspect
+The acquisition await(s) the chip
 ```
 
 ### word lists

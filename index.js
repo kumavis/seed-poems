@@ -20,8 +20,8 @@ function generatePoem () {
 
 function generateSentence () {
   const subject = selectRandom(nouns)
-  const object = selectRandom(verbs)
-  const verb = selectRandom(nouns)
+  const verb = selectRandom(verbs)
+  const object = selectRandom(nouns)
   
   const sentence = `The ${subject} ${verb}(s) the ${object}`
   return sentence
