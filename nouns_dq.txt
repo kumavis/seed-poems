@@ -723,7 +723,6 @@ bride
 bridge
 brief
 briefing
-briefly
 briefs
 brilliant
 brink
@@ -1612,7 +1611,6 @@ daffodil
 dagger
 dahlia
 daikon
-daily
 dairy
 daisy
 dam
